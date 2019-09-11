@@ -1,0 +1,15 @@
+{
+  "name": "desafio2",
+  "version": "1.0.0",
+  "description": "promesas",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js "
+  },
+  "author": "José Muñoz",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "time-stamp": "^2.2.0"
+  }
+}
